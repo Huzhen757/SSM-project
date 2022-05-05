@@ -1,0 +1,12 @@
+com\hz\service\OrderService.class
+com\hz\service\userService.class
+com\hz\service\SysLogService.class
+com\hz\service\impl\OrderServiceImpl.class
+com\hz\service\impl\RoleServiceImpl.class
+com\hz\service\impl\ProductServiceImpl.class
+com\hz\service\impl\userServiceImpl.class
+com\hz\service\impl\SysLogServiceImpl.class
+com\hz\service\RoleService.class
+com\hz\service\impl\PermissionServiceImpl.class
+com\hz\service\PermissionService.class
+com\hz\service\ProductService.class

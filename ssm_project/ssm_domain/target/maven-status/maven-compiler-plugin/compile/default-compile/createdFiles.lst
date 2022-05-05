@@ -1,0 +1,8 @@
+com\hz\domain\UserInfo.class
+com\hz\domain\Permission.class
+com\hz\domain\SysLog.class
+com\hz\domain\Role.class
+com\hz\domain\Member.class
+com\hz\domain\Product.class
+com\hz\domain\Traveller.class
+com\hz\domain\Orders.class

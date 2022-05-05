@@ -1,0 +1,8 @@
+com\hz\dao\OrdersDao.class
+com\hz\dao\ProductDao.class
+com\hz\dao\PermissionDao.class
+com\hz\dao\UserDao.class
+com\hz\dao\RoleDao.class
+com\hz\dao\MemberDao.class
+com\hz\dao\SysLogDao.class
+com\hz\dao\TravellerDao.class

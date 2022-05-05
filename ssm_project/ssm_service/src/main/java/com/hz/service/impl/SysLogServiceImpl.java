@@ -1,0 +1,28 @@
+package com.hz.service.impl;
+
+import com.hz.dao.SysLogDao;
+import com.hz.domain.SysLog;
+import com.hz.service.SysLogService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import java.util.List;
+
+@Service
+@Transactional
+public class SysLogServiceImpl implements SysLogService {
+
+    @Autowired
+    private SysLogDao dao;
+
+    @Override
+    public void save(SysLog log) {
+        dao.save(log);
+    }
+
+    @Override
+    public List<SysLog> findAll() {
+        return dao.findAll();
+    }
+}
